@@ -2,7 +2,7 @@
 
 # Práctica 1: Sistema de Lotka-Volterra
 
-## Información de la estudiante
+## Información del estudiante
 Dario A Martinez Camarena\[21210684]; L21210684@tijuana.tecn.mx
 
 Gemelos Digitales
